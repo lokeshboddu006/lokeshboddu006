@@ -138,21 +138,33 @@ Technical Communication • Teamwork • Adaptability • Problem Solving
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 Honors & Achievements
 
 <div align="center">
 
-  <!-- Certification Badges -->
-  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Foundations" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud_Computing_Elite-005696?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NPTEL Cloud Computing Elite" />
-  <img src="https://img.shields.io/badge/IBM-Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Fundamentals" />
-  <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials" />
+  <img src="https://img.shields.io/badge/🥇_1st_Place-National_India_Quiz_Competition-f97316?style=for-the-badge&labelColor=0d1117" alt="1st Place Quiz" />
+  <img src="https://img.shields.io/badge/🥈_Runner--Up-AI_Game_Development-f97316?style=for-the-badge&labelColor=0d1117" alt="Runner-Up AI Game" />
+  <img src="https://img.shields.io/badge/🥈_Runner--Up-Idea_to_Impact_Hackathon-f97316?style=for-the-badge&labelColor=0d1117" alt="Runner-Up Hackathon" />
+  <img src="https://img.shields.io/badge/🥈_Runner--Up-Inter--College_Debate-f97316?style=for-the-badge&labelColor=0d1117" alt="Runner-Up Debate" />
 
-  <br/><br/>
+</div>
 
-  <!-- Competitive & Technical Highlights -->
-  <img src="https://img.shields.io/badge/Hackathons-AI_%26_Systems_Builder-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="AI & Systems" />
-  <img src="https://img.shields.io/badge/Focus-Distributed_Systems_%26_AI-0D1117?style=for-the-badge&logo=openai&logoColor=f97316" alt="AI Focus" />
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Oracle-Agentic_AI_Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/VMware-Spring_Professional-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Developer" />
+  <img src="https://img.shields.io/badge/AWS-Academy_Graduate_Data_Engineering-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Data" />
+  <img src="https://img.shields.io/badge/Google-Gemini_Certified_Student-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
+  <img src="https://img.shields.io/badge/NPTEL-Cloud_Computing_(Elite)-005696?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/IBM-Cloud_&_Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+  <img src="https://img.shields.io/badge/QubitTech-Quantum_Computing-6A0DAD?style=for-the-badge&logo=quantum&logoColor=white" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/Infosys_Springboard-AI_/_NLP_/_Deep_Learning-007CC3?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys" />
 
 </div>
 
