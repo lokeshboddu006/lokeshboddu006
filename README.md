@@ -161,9 +161,7 @@ Technical Communication • Teamwork • Adaptability • Problem Solving
 # 📊 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshboddu006&bg_color=0d1117&color=ffffff&line=f97316&point=ffffff&area=true&hide_border=true" />
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshboddu006&theme=algolia" alt="Lokesh's Contribution Graph" />
 </div>
 
 ---
