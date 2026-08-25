@@ -138,11 +138,21 @@ Technical Communication • Teamwork • Adaptability • Problem Solving
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lokeshboddu006&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4" />
+  <!-- Certification Badges -->
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Foundations" />
+  <img src="https://img.shields.io/badge/NPTEL-Cloud_Computing_Elite-005696?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NPTEL Cloud Computing Elite" />
+  <img src="https://img.shields.io/badge/IBM-Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Fundamentals" />
+  <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials" />
+
+  <br/><br/>
+
+  <!-- Competitive & Technical Highlights -->
+  <img src="https://img.shields.io/badge/Hackathons-AI_%26_Systems_Builder-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="AI & Systems" />
+  <img src="https://img.shields.io/badge/Focus-Distributed_Systems_%26_AI-0D1117?style=for-the-badge&logo=openai&logoColor=f97316" alt="AI Focus" />
 
 </div>
 
