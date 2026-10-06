@@ -142,10 +142,10 @@ Technical Communication • Teamwork • Adaptability • Problem Solving
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/🥇_1st_Place-Full_Stack_Development_Hackathon-f97316?style=for-the-badge&labelColor=0d1117" alt="1st Place 12hrs Hackathon" />
   <img src="https://img.shields.io/badge/🥇_1st_Place-National_India_Quiz_Competition-f97316?style=for-the-badge&labelColor=0d1117" alt="1st Place Quiz" />
   <img src="https://img.shields.io/badge/🥈_Runner--Up-AI_Game_Development-f97316?style=for-the-badge&labelColor=0d1117" alt="Runner-Up AI Game" />
   <img src="https://img.shields.io/badge/🥈_Runner--Up-Idea_to_Impact_Hackathon-f97316?style=for-the-badge&labelColor=0d1117" alt="Runner-Up Hackathon" />
-  <img src="https://img.shields.io/badge/🥈_Runner--Up-Inter--College_Debate-f97316?style=for-the-badge&labelColor=0d1117" alt="Runner-Up Debate" />
 
 </div>
 
